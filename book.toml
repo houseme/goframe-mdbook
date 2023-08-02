@@ -1,0 +1,6 @@
+[book]
+authors = ["houseme"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GoFrame mdbook"
